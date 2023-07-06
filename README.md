@@ -1,34 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Crowdfunding Web3 App
 
-## Getting Started
+This repository contains a crowdfunding web application built using Next.js and ThirdWeb, leveraging the power of Web3 technology. With this application, users can create campaigns and receive funding from the community to bring their projects to life. As the developer, you will receive a 2% fee from each donation, making it a win-win situation for both creators and yourself.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- **Create Campaigns**: Users can easily create campaigns and provide detailed descriptions about their projects, including goals, deadlines, and any additional information they deem necessary.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Secure and Transparent**: Leveraging the power of Web3 technology, this application ensures security and transparency throughout the entire crowdfunding process. All transactions are securely stored on the blockchain, providing an immutable record of donations.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Connect with Wallets**: Users can connect their Web3 wallets, such as MetaMask, to seamlessly interact with the application and make donations. This simplifies the funding process and ensures a smooth user experience.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Real-Time Updates**: The application provides real-time updates on the progress of each campaign, including the total funds raised and the number of supporters. This allows users to track the success of their projects and keep the community engaged.
 
-## Learn More
+- **Developer Earnings**: As the developer of this crowdfunding app, you receive a 2% fee from each donation made to the campaigns. This incentivizes you to continue maintaining and improving the application while supporting the growth of the crowdfunding community.
+## License
 
-To learn more about Next.js, take a look at the following resources:
+This project is licensed under the [MIT License](LICENSE.md). Feel free to use, modify, and distribute the code for personal and commercial purposes.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Acknowledgements
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+We would like to acknowledge the open-source community and the developers behind Next.js and ThirdWeb for their excellent tools and libraries, which made the development of this crowdfunding app possible.
